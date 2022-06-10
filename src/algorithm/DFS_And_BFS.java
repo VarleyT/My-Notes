@@ -1,7 +1,5 @@
 package algorithm;
 
-import com.sun.source.tree.NewArrayTree;
-
 import java.util.LinkedList;
 import java.util.Scanner;
 
